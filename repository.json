@@ -14,6 +14,12 @@
 			"category": "Convenience",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-contactgroups/master/packageManifest.json",
 			"description": "Allows you to group contact sensors into a single device"
+		},
+		{
+			"name": "Hub Rebooter",
+			"category": "Utility",
+			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-rebooter/master/packageManifest.json",
+			"description": "Reboot your hub on a schedule to resolve performance issues"
 		}
 	]
 	
