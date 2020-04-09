@@ -38,6 +38,18 @@
 			"category": "Integrations",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-petnet/master/packageManifest.json",
 			"description": "Integrates Petnet SmartFeeders into your Hubitat system"
+		},
+		{
+			"name": "Kohler DTV+ Integration",
+			"category": "Integrations",
+			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-kohlerdtv/master/packageManifest.json",
+			"description": "Integrates Kohler DTV+ showers into your Hubitat system"
+		},
+		{
+			"name": "Kevo Plus Integration",
+			"category": "Integrations",
+			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-kevo/master/packageManifest.json",
+			"description": "Integrates Kohler Plus locks into your Hubitat system"
 		}
 	]
 	
