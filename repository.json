@@ -50,7 +50,18 @@
 			"category": "Integrations",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-kevo/master/packageManifest.json",
 			"description": "Integrates Kohler Plus locks into your Hubitat system"
+		},
+		{
+			"name": "Denon HEOS Integration",
+			"category": "Integrations",
+			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-heos/master/packageManifest.json",
+			"description": "Integrates Denon HEOS Speakers into your Hubitat system"
+		},
+		{
+			"name": "Holiday Switcher",
+			"category": "Utility",
+			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-holidayswitcher/master/packageManifest.json",
+			"description": "Turn on a switch when it's a holiday and off when it isn't"
 		}
 	]
-	
 }
