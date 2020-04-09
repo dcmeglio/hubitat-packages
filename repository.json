@@ -20,6 +20,24 @@
 			"category": "Utility",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-rebooter/master/packageManifest.json",
 			"description": "Reboot your hub on a schedule to resolve performance issues"
+		},
+		{
+			"name": "Presence Monitor",
+			"category": "Utility",
+			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-presencemonitor/master/packageManifest.json",
+			"description": "Provides a way to combine presence from multiple devices into a single virtual device"
+		},
+		{
+			"name": "Rheem EcoNet Integration",
+			"category": "Integrations",
+			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-rheem/master/packageManifest.json",
+			"description": "Integrates Rheem EcoNet Water Heaters into your Hubitat system"
+		},
+		{
+			"name": "Petnet SmartFeeder Integration",
+			"category": "Integrations",
+			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-petnet/master/packageManifest.json",
+			"description": "Integrates Petnet SmartFeeders into your Hubitat system"
 		}
 	]
 	
