@@ -68,6 +68,12 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-litterrobot/master/packageManifest.json",
       "description": "Integrates Litter Robot cat boxes into your Hubitat system"
+    },
+    {
+      "name": "MyQ Garage Door Integration",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-myq/master/packageManifest.json",
+      "description": "Integrates MyQ garage doors into your Hubitat system"
     }
   ]
 }
