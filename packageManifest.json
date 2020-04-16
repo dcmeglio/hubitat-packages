@@ -12,6 +12,16 @@
 			"namespace": "dcm.test",
 			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageTemp.groovy",
 			"required": true
+		},
+		{
+			"id" : "807bd030-9c95-4f1f-8787-fd9fc476496e",
+			"name": "NewReqApp",
+			"namespace": "dcm.test",
+			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageIlluminance.groovy",
+			"required": true
 		}
+		
+		
+		
 	]
 }
