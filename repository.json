@@ -1,79 +1,13 @@
 {
-  "author": "Dominick Meglio",
+  "author": "Test Repo",
   "gitHubUrl": "https://github.com/dcmeglio",
   "payPalUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7LBRPJRLJSDDN&source=url",
   "packages": [
     {
-      "name": "BOND Home Integration",
-      "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-bond/master/packageManifest.json",
-      "description": "Allows you to integrate a BOND Home device into your Hubitat system"
-    },
-    {
-      "name": "Contact Sensor Groups",
+      "name": "Test",
       "category": "Convenience",
-      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-contactgroups/master/packageManifest.json",
-      "description": "Allows you to group contact sensors into a single device"
-    },
-    {
-      "name": "Hub Rebooter",
-      "category": "Utility",
-      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-rebooter/master/packageManifest.json",
-      "description": "Reboot your hub on a schedule to resolve performance issues"
-    },
-    {
-      "name": "Presence Monitor",
-      "category": "Utility",
-      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-presencemonitor/master/packageManifest.json",
-      "description": "Provides a way to combine presence from multiple devices into a single virtual device"
-    },
-    {
-      "name": "Rheem EcoNet Integration",
-      "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-rheem/master/packageManifest.json",
-      "description": "Integrates Rheem EcoNet Water Heaters into your Hubitat system"
-    },
-    {
-      "name": "Petnet SmartFeeder Integration",
-      "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-petnet/master/packageManifest.json",
-      "description": "Integrates Petnet SmartFeeders into your Hubitat system"
-    },
-    {
-      "name": "Kohler DTV+ Integration",
-      "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-kohlerdtv/master/packageManifest.json",
-      "description": "Integrates Kohler DTV+ showers into your Hubitat system"
-    },
-    {
-      "name": "Kevo Plus Integration",
-      "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-kevo/master/packageManifest.json",
-      "description": "Integrates Kohler Plus locks into your Hubitat system"
-    },
-    {
-      "name": "Denon HEOS Integration",
-      "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-heos/master/packageManifest.json",
-      "description": "Integrates Denon HEOS Speakers into your Hubitat system"
-    },
-    {
-      "name": "Holiday Switcher",
-      "category": "Utility",
-      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-holidayswitcher/master/packageManifest.json",
-      "description": "Turn on a switch when it's a holiday and off when it isn't"
-    },
-    {
-      "name": "Litter Robot Integration",
-      "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-litterrobot/master/packageManifest.json",
-      "description": "Integrates Litter Robot cat boxes into your Hubitat system"
-    },
-    {
-      "name": "MyQ Garage Door Integration",
-      "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-myq/master/packageManifest.json",
-      "description": "Integrates MyQ garage doors into your Hubitat system"
+      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/fortesting/packageManifest.json",
+      "description": "test"
     }
   ]
 }

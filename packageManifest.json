@@ -1,0 +1,17 @@
+{
+	"packageName": "Test",
+	"minimumHEVersion": "2.1.9",
+	"author": "Dominick Meglio",
+	"version": "1.2.0",
+	"dateReleased": "2020-04-04",
+	"releaseNotes": "Initial release",
+	"apps" : [
+		{
+			"id" : "807bd030-9c95-4f1f-8787-fd9fc476496f",
+			"name": "TestApp",
+			"namespace": "dcm.test",
+			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageTemp.groovy",
+			"required": true
+		}
+	]
+}
