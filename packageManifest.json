@@ -33,7 +33,22 @@
 			"namespace": "dcm.test",
 			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageHumidity.groovy",
 			"required": false
+		},
+				{
+			"id" : "807bd020-9c95-4f1f-8787-fd9fc476296e",
+			"name": "NewOptionaApp3",
+			"namespace": "dcm.test",
+			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/debounceContact.groovy",
+			"required": false
+		},
+		{
+			"id" : "102bd020-9c95-4f1f-8787-fd9fc476496e",
+			"name": "NewOptionaApp4",
+			"namespace": "dcm.test",
+			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageHumidity.groovy",
+			"required": false
 		}
+		
 		
 		
 		
