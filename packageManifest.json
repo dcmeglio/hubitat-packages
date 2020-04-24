@@ -17,6 +17,11 @@
 			"id" : "807bd030-9c95-4f1f-8787-fd9fc476496e",
 			"name": "NewReqApp",
 			"namespace": "dcm.test",
+			"alternateNames": [
+				{"name": "Echo Speaks",
+				 "namespace": "tonesto7"
+				}
+			]
 			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageIlluminance.groovy",
 			"required": true
 		},
