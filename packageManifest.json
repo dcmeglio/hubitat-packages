@@ -21,7 +21,7 @@
 				{"name": "Echo Speaks",
 				 "namespace": "tonesto7"
 				}
-			]
+			],
 			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageIlluminance.groovy",
 			"required": true
 		},
