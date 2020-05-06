@@ -74,6 +74,12 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-myq/master/packageManifest.json",
       "description": "Integrates MyQ garage doors into your Hubitat system"
+    },
+	{
+      "name": "AlarmDecoder Integration",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/dcmeglio/alarmdecoder-smartthings/master/packageManifest.json",
+      "description": "Integrates an AlarmDecoder (AD2Pi) with your Hubitat system so you can control Ademco and DSC alarm systems."
     }
   ]
 }
