@@ -80,6 +80,12 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/alarmdecoder-smartthings/master/packageManifest.json",
       "description": "Integrates an AlarmDecoder (AD2Pi) with your Hubitat system so you can control Ademco and DSC alarm systems."
-    }
+    },
+	{
+		"name": "Andersen Verilock Translator",
+		"category": "Control",
+		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-verilock/master/packageManifest.json",
+		"description": "Integrate your Andersen Verilocks using a Verilock Translation with your Hubitat system for both contact and lock monitoring."
+	}
   ]
 }
