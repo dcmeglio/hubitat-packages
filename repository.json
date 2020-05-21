@@ -86,6 +86,12 @@
 		"category": "Control",
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-verilock/master/packageManifest.json",
 		"description": "Integrate your Andersen Verilocks using a Verilock Translation with your Hubitat system for both contact and lock monitoring."
+	},
+	{
+		"name": "Sure Petcare Pet Door",
+		"category": "Integrations",
+		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-sure-petcare-petdoor/master/packageManifest.json",
+		"description": "Control your Sure Petcare Pet Door and monitor your pet from within Hubitat."
 	}
   ]
 }
