@@ -10,7 +10,7 @@
       "description": "Allows you to integrate a BOND Home device into your Hubitat system"
     },
     {
-      "name": "Contact Sensor Groups",
+      "name": "Device Groups",
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-contactgroups/master/packageManifest.json",
       "description": "Allows you to group contact sensors into a single device"
@@ -92,6 +92,12 @@
 		"category": "Integrations",
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-sure-petcare-petdoor/master/packageManifest.json",
 		"description": "Control your Sure Petcare Pet Door and monitor your pet from within Hubitat."
-	}
+	},
+	{
+      "name": "Hubitat Hub Controller",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-hubcontroller/master/packageManifest.json",
+      "description": "Control your Hubitat Hub with actions such as shutdown and reboot."
+    }
   ]
 }
