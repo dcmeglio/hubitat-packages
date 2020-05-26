@@ -95,7 +95,7 @@
 	},
 	{
       "name": "Hubitat Hub Controller",
-      "category": "Convenience",
+      "category": "Utility",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-hubcontroller/master/packageManifest.json",
       "description": "Control your Hubitat Hub with actions such as shutdown and reboot."
     }
