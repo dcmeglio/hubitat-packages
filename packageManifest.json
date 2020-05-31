@@ -2,7 +2,6 @@
 	"packageName": "Test",
 	"minimumHEVersion": "2.1.9",
 	"author": "Dominick Meglio",
-	"version": "1.2.0",
 	"dateReleased": "2020-04-04",
 	"releaseNotes": "Initial release",
 	"apps" : [
@@ -10,67 +9,9 @@
 			"id" : "807bd030-9c95-4f1f-8787-fd9fc476496f",
 			"name": "TestApp",
 			"namespace": "dcm.test",
+			"version": "1.2.0",
 			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageTemp.groovy",
 			"required": true
-		},
-		{
-			"id" : "807bd030-9c95-4f1f-8787-fd9fc476496e",
-			"name": "NewReqApp",
-			"namespace": "dcm.test",
-			"alternateNames": [
-				{"name": "Echo Speaks",
-				 "namespace": "tonesto7"
-				}
-			],
-			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageIlluminance.groovy",
-			"required": true
-		},
-		{
-			"id" : "807bd020-9c95-4f1f-8787-fd9fc476496e",
-			"name": "NewOptionaApp",
-			"namespace": "dcm.test",
-			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/debounceContact.groovy",
-			"required": false
-		},
-		{
-			"id" : "107bd020-9c95-4f1f-8787-fd9fc476496e",
-			"name": "NewOptionaApp2",
-			"namespace": "dcm.test",
-			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageHumidity.groovy",
-			"required": false
-		},
-				{
-			"id" : "807bd020-9c95-4f1f-8787-fd9fc476296e",
-			"name": "NewOptionaApp3",
-			"namespace": "dcm.test",
-			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/debounceContact.groovy",
-			"required": false
-		},
-		{
-			"id" : "102bd020-9c95-4f1f-8787-fd9fc476496e",
-			"name": "NewOptionaApp4",
-			"namespace": "dcm.test",
-			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageHumidity.groovy",
-			"required": false
-		},
-				{
-			"id" : "807bd020-9c95-331f-8787-fd9fc476296e",
-			"name": "NewOptionaApp5",
-			"namespace": "dcm.test",
-			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/debounceContact.groovy",
-			"required": false
-		},
-		{
-			"id" : "102bd020-9c95-3f1f-8787-fd9fc476496e",
-			"name": "NewOptionaApp6",
-			"namespace": "dcm.test",
-			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageHumidity.groovy",
-			"required": false
 		}
-		
-		
-		
-		
-		
 	]
 }
