@@ -9,7 +9,7 @@
 			"id" : "807bd030-9c95-4f1f-8787-fd9fc476496f",
 			"name": "TestApp",
 			"namespace": "dcm.test",
-			"version": "1.8.0",
+			"version": "1.8.2",
 			"betaVersion": "1.8.2",
 			"location": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageIlluminance.groovy",
 			"betaLocation": "https://raw.githubusercontent.com/hubitat/HubitatPublic/master/example-apps/averageTemp.groovy",
