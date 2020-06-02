@@ -8,7 +8,8 @@
       "category": "Integrations",
 	  "secondaryCategory": "IR & RF",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-bond/master/packageManifest.json",
-      "description": "Allows you to integrate a BOND Home device into your Hubitat system"
+      "description": "Allows you to integrate a BOND Home device into your Hubitat system",
+	  "lan": true
     },
     {
       "name": "Device Groups",
@@ -32,31 +33,36 @@
       "name": "Rheem EcoNet Integration",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-rheem/master/packageManifest.json",
-      "description": "Integrates Rheem EcoNet Water Heaters into your Hubitat system"
+      "description": "Integrates Rheem EcoNet Water Heaters into your Hubitat system",
+	  "cloud": true
     },
     {
       "name": "Petnet SmartFeeder Integration",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-petnet/master/packageManifest.json",
-      "description": "Integrates Petnet SmartFeeders into your Hubitat system"
+      "description": "Integrates Petnet SmartFeeders into your Hubitat system",
+	  "cloud": true
     },
     {
       "name": "Kohler DTV+ Integration",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-kohlerdtv/master/packageManifest.json",
-      "description": "Integrates Kohler DTV+ showers into your Hubitat system"
+      "description": "Integrates Kohler DTV+ showers into your Hubitat system",
+	  "lan": true
     },
     {
       "name": "Kevo Plus Integration",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-kevo/master/packageManifest.json",
-      "description": "Integrates Kohler Plus locks into your Hubitat system"
+      "description": "Integrates Kohler Plus locks into your Hubitat system",
+	  "cloud": true
     },
     {
       "name": "Denon HEOS Integration",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-heos/master/packageManifest.json",
-      "description": "Integrates Denon HEOS Speakers into your Hubitat system"
+      "description": "Integrates Denon HEOS Speakers into your Hubitat system",
+	  "lan": true
     },
     {
       "name": "Holiday Switcher",
@@ -68,31 +74,36 @@
       "name": "Litter Robot Integration",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-litterrobot/master/packageManifest.json",
-      "description": "Integrates Litter Robot cat boxes into your Hubitat system"
+      "description": "Integrates Litter Robot cat boxes into your Hubitat system",
+	  "cloud": true
     },
     {
       "name": "MyQ Garage Door Integration",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-myq/master/packageManifest.json",
-      "description": "Integrates MyQ garage doors into your Hubitat system"
+      "description": "Integrates MyQ garage doors into your Hubitat system",
+	  "cloud": true
     },
 	{
       "name": "AlarmDecoder Integration",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/alarmdecoder-smartthings/master/packageManifest.json",
-      "description": "Integrates an AlarmDecoder (AD2Pi) with your Hubitat system so you can control Ademco and DSC alarm systems."
+      "description": "Integrates an AlarmDecoder (AD2Pi) with your Hubitat system so you can control Ademco and DSC alarm systems.",
+	  "lan": true
     },
 	{
 		"name": "Andersen Verilock Translator",
 		"category": "Control",
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-verilock/master/packageManifest.json",
-		"description": "Integrate your Andersen Verilocks using a Verilock Translation with your Hubitat system for both contact and lock monitoring."
+		"description": "Integrate your Andersen Verilocks using a Verilock Translation with your Hubitat system for both contact and lock monitoring.",
+		"zwave": true
 	},
 	{
 		"name": "Sure Petcare Pet Door",
 		"category": "Integrations",
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-sure-petcare-petdoor/master/packageManifest.json",
-		"description": "Control your Sure Petcare Pet Door and monitor your pet from within Hubitat."
+		"description": "Control your Sure Petcare Pet Door and monitor your pet from within Hubitat.",
+		"cloud": true
 	},
 	{
       "name": "Hubitat Hub Controller",
