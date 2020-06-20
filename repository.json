@@ -8,7 +8,7 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-bond/master/packageManifest.json",
       "description": "Allows you to integrate a BOND Home device into your Hubitat system",
-      "tags": [ "lan", "IR & RF" ],
+      "tags": [ "LAN", "IR & RF" ],
       "id": "b25495ec-1f66-4aba-8206-cd9bc754b718"
     },
     {
@@ -40,7 +40,7 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-rheem/master/packageManifest.json",
       "description": "Integrates Rheem EcoNet Water Heaters into your Hubitat system",
-      "tags": [ "cloud", "Water Heater" ],
+      "tags": [ "Cloud", "Water Heater" ],
       "id": "1f8e6f5c-fbd6-4fda-951d-467346383e2f"
     },
     {
@@ -48,7 +48,7 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-petnet/master/packageManifest.json",
       "description": "Integrates Petnet SmartFeeders into your Hubitat system",
-      "tags": [ "cloud", "Pets & Animals" ],
+      "tags": [ "Cloud", "Pets & Animals" ],
       "id": "8483f5b7-3b2f-466d-92bb-3c5c0fc4d9dd"
     },
     {
@@ -56,7 +56,7 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-kohlerdtv/master/packageManifest.json",
       "description": "Integrates Kohler DTV+ showers into your Hubitat system",
-      "tags": [ "lan", "Shower", "Bathroom" ],
+      "tags": [ "LAN", "Shower", "Bathroom" ],
       "id": "f2465c91-0eab-43d5-8099-566812a10585"
     },
     {
@@ -64,7 +64,7 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-kevo/master/packageManifest.json",
       "description": "Integrates Kohler Plus locks into your Hubitat system",
-      "tags": [ "cloud", "Locks" ],
+      "tags": [ "Cloud", "Locks" ],
       "id": "4ab2b5cb-a018-418a-9671-c18f2f0d2323"
     },
     {
@@ -72,7 +72,7 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-heos/master/packageManifest.json",
       "description": "Integrates Denon HEOS Speakers into your Hubitat system",
-      "tags": [ "lan", "Speakers", "Multimedia" ],
+      "tags": [ "LAN", "Speakers", "Multimedia" ],
       "id": "675bd4a8-4f4d-43e8-9cae-9c2d4f096da7"
     },
     {
@@ -80,7 +80,7 @@
       "category": "Utility",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-holidayswitcher/master/packageManifest.json",
       "description": "Turn on a switch when it's a holiday and off when it isn't",
-	    "tags": [ "cloud", "Automations & Groups" ],
+	    "tags": [ "Cloud", "Automations & Groups" ],
       "id": "d45cac3e-384b-4d79-8b3f-7bd40b1721f2"
     },
     {
@@ -88,7 +88,7 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-litterrobot/master/packageManifest.json",
       "description": "Integrates Litter Robot cat boxes into your Hubitat system",
-      "tags": [ "cloud", "Pets & Animals" ],
+      "tags": [ "Cloud", "Pets & Animals" ],
       "id": "e94967fd-6f75-4d09-9416-2ec65abaa3c6"
     },
     {
@@ -96,7 +96,7 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-myq/master/packageManifest.json",
       "description": "Integrates MyQ garage doors into your Hubitat system",
-      "tags": [ "cloud", "Doors & Windows", "Garage Doors" ],
+      "tags": [ "Cloud", "Doors & Windows", "Garage Doors" ],
       "id": "6171d49f-2b63-4cd9-91e6-0c978e979dea"
     },
     {
@@ -104,7 +104,7 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/alarmdecoder-smartthings/master/packageManifest.json",
       "description": "Integrates an AlarmDecoder (AD2Pi) with your Hubitat system so you can control Ademco and DSC alarm systems.",
-      "tags": [ "lan", "Safety & Security", "Alarm Systems" ],
+      "tags": [ "LAN", "Safety & Security", "Alarm Systems" ],
       "id": "54e396bd-6eb7-433d-8e54-86a430a119b5"
     },
     {
@@ -112,7 +112,7 @@
       "category": "Control",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-verilock/master/packageManifest.json",
       "description": "Integrate your Andersen Verilocks using a Verilock Translation with your Hubitat system for both contact and lock monitoring.",
-      "tags": [ "zwave", "Doors & Windows" ],
+      "tags": [ "Zwave", "Doors & Windows" ],
       "id": "e15217ad-b9c5-4b61-b352-dc0caad72161"
     },
     {
@@ -120,7 +120,7 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-sure-petcare-petdoor/master/packageManifest.json",
       "description": "Control your Sure Petcare Pet Door and monitor your pet from within Hubitat.",
-      "tags": [ "cloud", "Pets & Animals" ],
+      "tags": [ "Cloud", "Pets & Animals" ],
       "id": "2cd24b39-f39d-480e-9f9b-233dc7c2c8d0"
     },
     {
@@ -136,7 +136,7 @@
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-withings/master/packageManifest.json",
       "description": "Integrate your Withings devices with Hubitat.",
-      "tags": [ "cloud", "Health & Fitness", "Scales", "Sleep" ],
+      "tags": [ "Cloud", "Health & Fitness", "Scales", "Sleep" ],
       "id": "a818ff1e-aae6-455e-91da-c5e6443fa54c"
     }
   ]
