@@ -138,6 +138,14 @@
       "description": "Integrate your Withings devices with Hubitat.",
       "tags": [ "Cloud", "Health & Fitness", "Scales", "Sleep" ],
       "id": "a818ff1e-aae6-455e-91da-c5e6443fa54c"
-    }
+    },
+	{
+      "name": "Petsafe SmartFeeder Integration",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-petsafe/master/packageManifest.json",
+      "description": "Integrates Petsafe Smart Feeders into your Hubitat system",
+      "tags": [ "Cloud", "Pets & Animals" ],
+      "id": "e41fbb47-1fb6-4bf7-a5d1-75e73d1c5aed"
+    },
   ]
 }
