@@ -146,6 +146,6 @@
       "description": "Integrates Petsafe Smart Feeders into your Hubitat system",
       "tags": [ "Cloud", "Pets & Animals" ],
       "id": "e41fbb47-1fb6-4bf7-a5d1-75e73d1c5aed"
-    },
+    }
   ]
 }
