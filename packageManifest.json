@@ -4,6 +4,12 @@
 	"author": "Dominick Meglio",
 	"dateReleased": "2020-04-04",
 	"releaseNotes": "Initial release",
+	"files": [
+		{
+			"name": "897843976482397423432.js",
+			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
+		}
+	],
 	"apps" : [
 		{
 			"id" : "807bd030-9c95-4f1f-8787-fd9fc476496f",
