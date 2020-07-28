@@ -6,9 +6,14 @@
 	"releaseNotes": "Initial release",
 	"files": [
 		{
+			"id": "54ab4dea-4a1c-43ea-89c8-1fb4717528ac",
 			"name": "897843976482397423432.js",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
-		}
+		},{
+      "id": "54ab4dea-4a2c-43ea-89c8-1fb4717528ac",
+      "name": "something.txt",
+      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/LICENSE"
+    }
 	],
 	"apps" : [
 		{
@@ -23,3 +28,4 @@
 		}
 	]
 }
+    
