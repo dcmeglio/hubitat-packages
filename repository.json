@@ -82,7 +82,7 @@
       "name": "Kevo Plus Integration",
       "category": "Integrations",
       "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-kevo/master/packageManifest.json",
-      "description": "Integrates Kohler Plus locks into your Hubitat system",
+      "description": "Integrates Kevo Plus locks into your Hubitat system",
       "tags": [
         "Cloud",
         "Locks"
@@ -214,6 +214,18 @@
         "Irrigation",
         "Valves"
       ]
+    },
+	  {
+      "id": "36283e74-4651-4111-8ac9-65f4a4cc923a",
+      "name": "LG ThinQ Integration",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/dcmeglio/hubitat-thinq/master/packageManifest.json",
+      "description": "Integrate your L:G ThinQ devices with Hubitat.",
+      "tags": [
+        "Cloud",
+        "Appliances"
+      ]
     }
   ]
 }
+
